@@ -1,2 +1,4 @@
 pygame==2.6.0
 pymunk==6.11.1
+matplotlib==3.10.1
+IPython==9.2.0
